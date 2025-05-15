@@ -1,3 +1,7 @@
+## Design Pattern
+Here I have followed MVC pattern for User registration, login, logout and Repository pattern for task management.
+
+
 ## Required Extensions
 * ext-curl
 * ext-json
